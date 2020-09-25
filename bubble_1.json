@@ -1,0 +1,66 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "標題一",
+        "size": "xl",
+        "weight": "bold",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "標題一",
+        "size": "lg",
+        "wrap": true
+      }
+    ],
+    "backgroundColor": "#00B900"
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://i.imgur.com/jQM6h0k.png",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://i.imgur.com/jQM6h0k.png"
+    },
+    "align": "center",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": []
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "postback",
+          "label": "查看完整題目",
+          "data": "hello"
+        },
+        "style": "secondary",
+        "margin": "md"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "postback",
+          "label": "我要解題！",
+          "data": "hello"
+        },
+        "style": "primary",
+        "margin": "md"
+      }
+    ]
+  }
+}

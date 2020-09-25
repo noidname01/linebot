@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "e-lexicon-288807",
+  "private_key_id": "51c73b9ec449f8d5cfca7703a5ad135a1d8e72cc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyTOJEbfGfYDzr\nh9t9csMqIee5CrTF8xr+AY+yMxtAGLHNKlVuIAuoj3ClMsybeOJ8NePiz2i71w5h\nBz93oJBSyJSdTgw7ftvki02tX7oESUtmfScKIc32EU9m/Gg8hbYRgVEBEEqZ6U6T\nusi5CVDjtDnHmKiyPKId3Dp6Ej4PpbvKLEe5Padxugxm4rO+o7Dxg4xgZJx4c1bc\nlZznubxUdxnJROn+gQChTc2sRnvLHJLm+h+EYgLJNPQ5KxdxeIaCaJmwUM69fWjf\npkb3qcIO3yVsH4Z6BIJaW5Y201oIpi1eQKMBf8mnbrcuI6vs3xvgy0livIqcOoee\nfdTWNfbvAgMBAAECggEAS1y03JCN6rveM/1p+AWsWSAYlf1g+DQvigI17u+sCnUF\nnf7ROilgVCBA0Ap/Mg2vySlsB398OL0G7lsGZ/VdWyg9rJmDERinL9vzep71/H7Q\nWGL4v88XA3VAlvqDwmUP1ilPCECPD6vt0wJFefRmlMAmFefAEgoPycg+jT8trSW+\n8B3qrOTRnNG8wR2avbI7uEqJ+O6Xi15baxTuIRY4hUOfQgeBKGtCd/srZlhJgTk2\n5J181o8+8Cg/9ZnGfND25UdLUqvs7qrnU+Wyp/doUJNpIZ7qXskLqdxy80rQwRYo\nwzsDrcvRw9LZmdvpgXluKaZdE+FGgP1wfkVchL9P/QKBgQDY2yBo8FcI6ed+weqX\nV1PonHZIEZIMonGSZQpe53u4/FVfvdSSWA16DjmywQNa+SRijBFEJPiEQYeZzcnu\nkCrl/QwsMgaiDaUys/HKmBYsJXTDAoOKaDJNFTFn79INMGfy+5agRiSO8hF1inrQ\n511x6MsDvoo25GzCbfKjbbpYSwKBgQDSfBvKgD9Iv2rYxYnMcQZhi7NF8tWk6XwW\njDueR+rvB/fDuVZyBHtYX3xD08lbL6VkLfkO3fjPYvjTFdFOmWrCcxtep/Qlqr1z\nyE0K+d3EJfErEXmt88NjtL0odkwNI0u6G1tstCSqa8HzPWxM7ThJwdb7izHKxZj6\nJuRgoK29bQKBgQCCDoGUjjgUr3vYKOLSG1zGkDfcJzWJgE9O9mxO2NP58NQfFJGN\np2OFxUxTabDiebOZqtmcHfQyFb8GvkYSXsJrpuULCIGz5S0jiIpF8Aq0NU6euj47\n3xvz4Pb9l/ZJVLOzJbKDsy2v0XwpG4FnEquXan9/YmIwY7TasugnneJ5mwKBgQDC\n2n3nwz3SnNHPB1//0Qo1N1yo/prlZfin7v4qEy3cRqYJnQP33UpKj2q8Z81aCwuz\naBPOvZLeeiMbVnFDsCbzCBhoUldkn2FvVBhuds3kDbPrSOw6KxXQsbsDQDA7YVdz\nXGwQf9wJoGQWR+CAfoLDVR0uFLftnWt2+JYnFdiBKQKBgG6SxJmgstYBW3+wyKhI\nOYv+guIEVQv22IJqU2mTmd1d119QDuNWRgoMZW/DlBmbS4OFERIGRWQMksXk2R4S\nh8qX9RdXkpyFEQeQ6XsSgzOO2/Nm+jpiSOINfN0jYho+jzAR0Qq3puxqc85epAML\nIBrZiPug4QQl47GGhDXHcu9d\n-----END PRIVATE KEY-----\n",
+  "client_email": "yochi-393@e-lexicon-288807.iam.gserviceaccount.com",
+  "client_id": "118429045413567008899",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yochi-393%40e-lexicon-288807.iam.gserviceaccount.com"
+}
